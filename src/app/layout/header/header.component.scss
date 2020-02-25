@@ -1,0 +1,14 @@
+.header-toolbar-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-icon {
+  /* Font */
+  font-size: 2rem;
+  /* Dimensions */
+  width: 2rem;
+  height: 2rem;
+  /* Cursor */
+  cursor: pointer;
+}
